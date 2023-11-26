@@ -1,0 +1,17 @@
+.vs/**
+**/bin/Debug/net8.0/**
+
+**/obj/Debug/net8.0/ref/**
+**/obj/Debug/net8.0/refint/**
+**/obj/Debug/net8.0/staticwebassets/**
+
+**/obj/Debug/net8.0/*.exe
+**/obj/Debug/net8.0/*.cs
+**/obj/Debug/net8.0/*.cache
+**/obj/Debug/net8.0/*.txt
+**/obj/Debug/net8.0/*.dll
+**/obj/Debug/net8.0/*.pdb
+**/obj/Debug/net8.0/*.json
+**/obj/Debug/net8.0/*.csproj.*
+**/obj/Debug/net8.0/*.editorconfig
+
