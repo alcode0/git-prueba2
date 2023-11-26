@@ -925,11 +925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\cs\\.NET8\\Appprueba\\Provandogithub\\Provandogithub.csproj",
+      "projectUniqueName": "A:\\cs\\.NET8\\clonandoAppGit\\git-prueba2\\Provandogithub\\Provandogithub.csproj",
       "projectName": "Provandogithub",
-      "projectPath": "A:\\cs\\.NET8\\Appprueba\\Provandogithub\\Provandogithub.csproj",
+      "projectPath": "A:\\cs\\.NET8\\clonandoAppGit\\git-prueba2\\Provandogithub\\Provandogithub.csproj",
       "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-      "outputPath": "A:\\cs\\.NET8\\Appprueba\\Provandogithub\\obj\\",
+      "outputPath": "A:\\cs\\.NET8\\clonandoAppGit\\git-prueba2\\Provandogithub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

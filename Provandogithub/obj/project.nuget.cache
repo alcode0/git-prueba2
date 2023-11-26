@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rfTk6TAZ2tICF0FWsCbNlhHSnAX73DpsG60xedW0NgBjJEeXQ62f/V+JAm4medxzlFu+BE7dHvZguiYlSF47zQ==",
+  "dgSpecHash": "11xROrgRsWUVsAgOijPtBMq7mLfmb1Rhd15E2B1nU71xxP8N63qMlC8OanbZZ1mQ34xo4dEwz2aAqPNQI96ceA==",
   "success": true,
-  "projectFilePath": "A:\\cs\\.NET8\\Appprueba\\Provandogithub\\Provandogithub.csproj",
+  "projectFilePath": "a:\\cs\\.NET8\\clonandoAppGit\\git-prueba2\\Provandogithub\\Provandogithub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
